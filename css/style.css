@@ -1,0 +1,41 @@
+
+/* general start */
+body {
+    background-color: FAE7F3;
+}
+
+header h1{
+    text-align: center;
+    color: #11009E;
+}
+
+main section {
+    text-align: center;
+    list-style-position: inside;
+}
+
+main section h1 {
+    text-align: center;
+    color: #11009E;
+}
+
+main section h2 {
+    text-align: center;
+    color: #11009E;
+}
+
+main section h3 {
+color: #E6B9DE;
+}
+
+.index-nav-container{
+    text-align: center;
+}
+
+.about-content-container > *{
+  text-align: start;
+}
+
+
+
+/* general end */
