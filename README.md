@@ -2,6 +2,6 @@
 
 HTML - CSS Exercise
 
-![patika-css-odev1 preview](exercise_preview.mp4)
+![exercise preview](exercise_preview.gif)
 
 [Patika](https://academy.patika.dev/tr/@alpk)
